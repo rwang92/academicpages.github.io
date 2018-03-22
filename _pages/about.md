@@ -10,15 +10,16 @@ redirect_from:
 
 I am now a third year economic PhD student in Department of Economics, University of California, Riverside. My research field is mainly about machine learning in econometrics.
 
-## Research Interests
+Research Interests
+====
 
-**Machine Learning in Econometrics and Causal Inference:** 
+### Machine Learning in Econometrics and Causal Inference:
 
 - Unsupervised feature learning in high-dimensional economic data
 
 - Estimation of treatment effect in Rubin causal framework via machine learning
 
-**Neural Language Modeling for Causal Inference and Forecasting:** 
+### Neural Language Modeling for Causal Inference and Forecasting: 
 
 - Political statement analysis via natural language processing and deep neural network
 
