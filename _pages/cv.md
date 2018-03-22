@@ -11,22 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+
+**University of California, Riverside**
+
+**Ph.D. Candidate in Economics (Sept 2017-June 2020 expected)**
+
+**Research Interests:** Econometrics, Causal Inference via Machine Learning, Time Series Analysis and Forecasting
+**Oral Topic:** "Treatment Effect Estimation via Causal Gradient Boosted Decision Tree" (Aug 2017)
+**Advisors:** Dr. Tae-hwy Lee (Professor in Department of Economics, UC, Riverside), Dr. Aman Ullah (Distinguished Professor in Department of Economics, UC, Riverside)
+
+**University of California, Riverside**
+
+**M.A. in Economics (Sept 2015-July 2017), GPA: 3.7/4.0**
+
+**Main Courses:** Advanced Micro/Macroeconomics, Advanced Econometrics and Statistics (Cross-section and Panel Data Models, Financial Time Series and Volatility Models, Non-parametric Econometrics and Statistics, Bayes statistics), Advanced Machine Learning (SVM, Random Forest, Gradient Boosting, Neural Network, PCA, Graphical model .etc)
+
+Nankai University
+
+**B.S. in Finance (Sept 2008-June 2012), GPA: 3.5/4.0**
+
+**Main Courses:** Basic Statistics and Econometrics, Financial Mathematics, Investment, Financial Data Analysis
+
+**Thesis:** "An Empirical Study in Chinese Open Fund Market via Augmented EGARCH Model"
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Teaching Assistant (Sept 2016-Now)
+  * University of California, Riverside
+
 Skills
 ======
 * Skill 1
@@ -38,22 +52,3 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
