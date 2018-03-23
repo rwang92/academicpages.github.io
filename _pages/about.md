@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year economic PhD student in Department of Economics, University of California, Riverside. My research field is mainly about machine learning in econometrics and causal inference.
+I am now a third year economic Ph.D. student in Department of Economics, University of California, Riverside. My research field is mainly about machine learning in econometrics and causal inference.
 
 Research Interests
 ====
