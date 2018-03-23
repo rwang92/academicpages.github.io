@@ -2,7 +2,7 @@
 title: "Identify Unbiased Heterogeneous Treatment Effect via L1-regularized Soft Decision Tree"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt:
 date: 2017-09-02
 venue: 'working in progress'
 ---
