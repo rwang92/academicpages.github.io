@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate TA Session"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of California, Riverside"
-date: 2015-01-01
+date: 2016-01-01
 location: "City, Country"
 ---
 
