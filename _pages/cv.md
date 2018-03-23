@@ -44,7 +44,7 @@ Skills
 **Language:** Chinese mandarin (native), English (fluent)
 
 
-Research Topics
+Current Research Topics
 =====
 
 **Machine Learning in Econometrics and Causal Inference:**
