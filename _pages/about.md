@@ -21,6 +21,6 @@ Research Interests
 
 ### Neural Language Modeling for Causal Inference and Forecasting: 
 
-- Political statement analysis via natural language processing and deep neural network
+- Economic text data analysis via natural language processing and deep neural network
 
 - Neural net-based content analysis and representation learning for causal inference
