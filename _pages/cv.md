@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 
-### Ph.D. Candidate in Economics, University of California, Riverside(Sept 2017-June 2020 expected)
+### Ph.D. Candidate in Economics, University of California, Riverside (Sept 2017-June 2020 expected)
 
 - **Oral Topic:** "Treatment Effect Estimation via Causal Gradient Boosted Decision Tree" (Aug 2017)
 
 - **Advisors:** Dr. Tae-hwy Lee (Professor in Department of Economics, UC, Riverside), Dr. Aman Ullah (Distinguished Professor in Department of Economics, UC, Riverside)
 
-### M.A. in Economics, University of California, Riverside(Sept 2015-July 2017), GPA: 3.7/4.0
+### M.A. in Economics, University of California, Riverside(Sept 2015-July 2017), GPA: 3.71/4.0
 
 - **Main Courses:** Advanced Micro/Macroeconomics, Advanced Econometrics and Statistics (Cross-section and Panel Data Models, Financial Time Series and Volatility Models, Non-parametric Econometrics and Statistics, Bayes statistics), Advanced Machine Learning (SVM, Random Forest, Gradient Boosting, Neural Network, PCA, Graphical model .etc)
 
@@ -32,34 +32,26 @@ Education
 Work experience
 ======
 
-### Teaching Assistant in University of California, Riverside (Sept 2016-Now)
+### Teaching Assistant at University of California, Riverside (Sept 2016-Now)
+
+- Econ 101 Statistics for Economics
+
+- Econ 107 Intro to Econometrics
+
+- Econ 002 Intro to Macroeconomics
+
+- Econ 003 Intro to Microeconomics
+
+- Econ 135 Stock Market
 
 Skills
 ======
 
-**Programming and Software:** R, MATLAB, Python, EViews, Stata
+**Programming and Software:** R, Python (Numpy, Pandas), SQL, EViews, Stata, MATLAB
 
-**Neural Network Framework:** PyTorch, Keras
+**Neural Network Framework:** PyTorch
 
 **Language:** Chinese mandarin (native), English (fluent)
-
-
-Current Research Topics
-=====
-
-**Machine Learning in Econometrics and Causal Inference:**
-
-- Unsupervised feature learning in high-dimensional economic data
-
-- Estimation of treatment effect in Rubin causal framework via machine learning
-
-**Neural Language Modeling for Causal Inference and Forecasting:** 
-
-- Economic text data analysis via natural language processing and deep neural network
-
-- Neural net-based content analysis and representation learning for causal inference
-
-
 
 Working in Progress
 ======
