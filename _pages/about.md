@@ -9,3 +9,10 @@ redirect_from:
 ---
 
 I am now a fourth year Economic Ph.D. student in Department of Economics, University of California, Riverside. My research field is mainly about econometrics, economic forecasting and causal inference via machine learning.
+
+Current Research Topics
+=====
+
+#### Machine Learning in Econometrics and Causal Inference
+
+#### Language Modeling and Neural Networks for Pattern Extracting and Forecasting
