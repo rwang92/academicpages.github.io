@@ -20,7 +20,17 @@ Education
 
 ### M.A. in Economics, University of California, Riverside(Sept 2015-July 2017), GPA: 3.71/4.0
 
-- **Main Courses:** Advanced Micro/Macroeconomics, Advanced Econometrics and Statistics (Cross-section and Panel Data Models, Financial Time Series and Volatility Models, Non-parametric Econometrics and Statistics, Bayes statistics), Advanced Machine Learning (SVM, Random Forest, Gradient Boosting, Neural Network, PCA, Graphical model .etc)
+#### Main Courses
+
+- Advanced Micro/Macroeconomics
+
+- Advanced Econometrics and Statistics (Cross-section and Panel Data Models, Financial Time Series and Volatility Models, Non-parametric Econometrics and Statistics, Bayesian statistics)
+
+- Machine Learning (SVM, Random Forest, Gradient Boosting, Neural Network, PCA, Graphical model)
+
+- Data Mining Techniques (Database, SQL, Spark, Visualization)
+
+- Scientific Computing (floating number system ,LU decomposition, Least Square, Fixed Point Iteration)
 
 ### B.S. in Finance, Nankai University (Sept 2008-June 2012), GPA: 3.5/4.0
 
@@ -29,7 +39,7 @@ Education
 - **Thesis:** "An Empirical Study in Chinese Open Fund Market via Augmented EGARCH Model"
 
 
-Work experience
+Work Experiences
 ======
 
 ### Teaching Assistant at University of California, Riverside (Sept 2016-Now)
@@ -56,29 +66,45 @@ Skills
 Working in Progress
 ======
 
+### Identify Unbiased Heterogeneous Treatment Effect via L1-regularized Soft Decision Tree and Neural Net
+
+- **Abstract:** in causal inference, two main problems are widely discussed by researchers: identiﬁcation of heterogeneous treatment effect, and unbiased estimation of treatment effect, nuisance parameters or functions. Researchers have introduced machine learning method into causal inference for statistics and economics. Although researchers have solved two problems well enough, the combination of two problem still need to be. In this paper, we explore the identiﬁcation of heterogeneous treatment effect based on L1-regularized Soft-Decision Tree, which is a combination among soft decision tree, causal forest and double machine learning framework. Basically, It is straight forward to generalize the L1-regularized soft-decision tree into other differentiable methods. Thus, We also explore selecting variables nonlinearly via neural network with L1 regularization on the norm of first derivative.
+
 ### Few-Shot Learning Convolutional Neural Network for Political Statement Analysis and Forecasting
 
 [Github](https://github.com/rwang92/PoliStat2Vec-and-CNN)
 
 - **Abstract:** in central bank monetary policy analysis, politicians' responds are often affect the robustness and effectiveness of policies for a country. Previously, we have witnessed a bunch of researches about forecasting the outcomes of monetary policy via content analysis on political statements of politicians. But there are two main limitations: first, researchers need to set many assumptions about the features in the statements, like the keywords. Second, there are few available labeled datasets for training learning algorithm. In this paper, we discuss a new way, few-shot learning, to solve the drawbacks above. We will show that few-shot learning CNN with domain adaptation is effective to extract relevant features when we have a few labeled target data and several large datasets with similar outputs but different domains.
 
-### Identify Unbiased Heterogeneous Treatment Effect via L1-regularized Soft Decision Tree and Neural Net
-
-- **Abstract:** in causal inference, two main problems are widely discussed by researchers: identiﬁcation of heterogeneous treatment effect, and unbiased estimation of treatment effect, nuisance parameters or functions. Researchers have introduced machine learning method into causal inference for statistics and economics. Although researchers have solved two problems well enough, the combination of two problem still need to be. In this paper, we explore the identiﬁcation of heterogeneous treatment effect based on L1-regularized Soft-Decision Tree, which is a combination among soft decision tree, causal forest and double machine learning framework. Basically, It is straight forward to generalize the L1-regularized soft-decision tree into other differentiable methods. Thus, We also explore selecting variables nonlinearly via neural network with L1 regularization on the norm of first derivative.
-
 ### Nonlinear Slow Features Extraction via Auto Encoder in Time Series Analysis
 
 - **Abstract:** based on Slow Feature Analysis, we introduce a nonlinear slow feature extractor based on regularized deep autoencoder, which can not only automatically extract nonlinear slow features from the sequential data rather than manually design nonlinear transform in ordinary SFA but can construct more complex and abstract nonlinear slow features by stacking auto encoders layer by layer.
 
+Book Chapters
+=====
+
+### Macroeconomic Forecasting in the Era of Big Data (Springer, forthcoming in 2019) [Link](http://www2.hawaii.edu/~fuleky/BigDataSite/index.html)
+
+- Chapter 14 Bootstrap Averaging, with Tae-hwy Lee and Aman Ullah
+
+- Chapter 16 Boosting, with Jianghao Chu, Tae-hwy Lee and Aman Ullah
+
 Professional Servise
 =====
 
-### Referee of Pakistan Journal of Applied Economics (Dec 2017)
+- Referee of Pakistan Journal of Applied Economics (Dec 2017)
+- Referee of Journal of Quantitative Economics (Apr 2018)
 
-### Attendee of Conference on Neural Information Processing Systems (Dec 2017)
+HONORS
+=====
 
-Previous Online Courses
+- Dean’s Distinguished Fellowship, University of California, Riverside (Sept 2015)  
+- Excellent undergraduate graduation thesis, Nankai University (June 2012)
+
+Other Online Courses
 ====
+
+### Intro to Deep Learning on PyTorch at Udacity (PyTorch Scholarship Challenge)
 
 ### Machine Learning Technics from National Taiwan University at Coursera
 
