@@ -1,9 +1,9 @@
 ---
 title: "Few-Shot Learning Convolutional Neural Network for Political Statement Analysis and Forecasting"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink:
 excerpt:
-date: '2019-09-03'
+date: '2019-08-31'
 venue: 'working in progress'
 ---
 
