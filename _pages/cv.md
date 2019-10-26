@@ -67,9 +67,9 @@ Book Chapters
 
 ### Macroeconomic Forecasting in the Era of Big Data (Springer, forthcoming in 2019) [Link](http://www2.hawaii.edu/~fuleky/BigDataSite/index.html)
 
-- Chapter 14 Bootstrap Averaging, with Tae-hwy Lee and Aman Ullah
+- Chapter 13 Bagging and Random Forests, with Tae-hwy Lee and Aman Ullah
 
-- Chapter 16 Boosting, with Jianghao Chu, Tae-hwy Lee and Aman Ullah
+- Chapter 14 Boosting, with Jianghao Chu, Tae-hwy Lee and Aman Ullah
 
 Work/Teaching Experiences
 ======
