@@ -3,7 +3,7 @@ title: "Nonlinear Slow Features Extraction via Auto Encoder in Time Series Analy
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt:
-date: 2016-09-02
+date: 2019-09-04
 venue: 'working in progress'
 ---
 
