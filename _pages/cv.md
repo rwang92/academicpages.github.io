@@ -45,7 +45,8 @@ Working Paper
 
 - **Abstract:** In this paper, we develop a new method called $L_1$-Regularized Soft Decision Tree method to identify the heterogeneous treatment effect and confounding effect under a very flexible treatment effect framework. We first convert the main problem into a nonlinear variable selection task and prove that our new method can identify the relevant subset of the relevant factors consistently. We also discuss the asymptotic theory of the soft decision tree that can be a very effective method for resolving other nonlinear variable selection issues. In our empirical experiment, we find that $L_1$-Regularized Soft Decision Tree can identify the relatively meaningful factors, which is better than the results returned by other variable selection methods like Lasso.
 
-nsupervised Feature Extraction Clustering for Crisis Prediction
+### Unsupervised Feature Extraction Clustering for Crisis Prediction
+
 - **Abstract:** This paper introduces unFEAR, an unsupervised feature extraction clustering method suitable for building crisis prediction models. Given a training sample of crisis and non-crisis observations and the corresponding attributes data, unFEAR groups the observations into time-homogeneous clusters by removing time trends and imputing missing data through the successive application auto-encoders. Each cluster can be associated with a different recurrent economic regime. On a first pass, crisis probabilities can be approximated by the crisis frequency in the cluster. Alternatively, once clusters are identified, supervised classifiers can be used to predict crisis events.
 
 Working in Progress
