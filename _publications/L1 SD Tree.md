@@ -1,7 +1,7 @@
 ---
 title: "Identifying Heterogeneous Treatment Effect and Confoundering Effect via $L_1$ Regularized Soft Decision Tree"
 collection: publications
-date: 2019/09/01
+date: '2019-09-01'
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt:
 ---
