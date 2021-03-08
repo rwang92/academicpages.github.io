@@ -32,11 +32,6 @@ Education
 
 - Scientific Computing (floating number system ,LU decomposition, Least Square, Fixed Point Iteration)
 
-### B.S. in Finance, Nankai University (Sept 2008-June 2012), GPA: 3.5/4.0
-
-- **Main Courses:** Basic Statistics and Econometrics, Financial Mathematics, Investment, Financial Data Analysis
-
-- **Thesis:** "An Empirical Study in Chinese Open Fund Market via Augmented EGARCH Model"
 
 Working Paper
 ======
